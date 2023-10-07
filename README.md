@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently working on becoming a Front-end Developer<br>🌱 I’m currently learning JS,<br>⚡ Fun fact ***"The More you F around, The more you find out"***<br><br>
+🔭 I’m currently working on becoming a Front-end Developer<br>🌱 I’m currently learning JS
+<!---<br>⚡ Fun fact ***"The More you F around, The more you find out"***<br><br>--->
 
 
 ## 🌐 Socials:
